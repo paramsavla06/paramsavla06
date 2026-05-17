@@ -1,6 +1,6 @@
 # Hey there, I'm Param Savla
 
-AI Builder | Backend Developer | Problem Solver  
+Fullstack Developer | Problem Solver  
 
 ---
 
@@ -8,7 +8,6 @@ AI Builder | Backend Developer | Problem Solver
 
 - B.Tech Student  
 - Building intelligent systems using AI and full stack technologies  
-- Hackathon-focused, solving real-world problems  
 - Interested in system design and scalable backend engineering  
 
 ---
@@ -24,12 +23,9 @@ AI Builder | Backend Developer | Problem Solver
 ### Backend & Web  
 [![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) 
 [![Express.js](https://img.shields.io/badge/express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)](https://expressjs.com/) 
-[![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/) 
-[![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)  
 
 ### Frontend  
 [![React](https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/) 
-[![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/) 
 [![Tailwind CSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)  
 
 ### AI / ML  
@@ -39,8 +35,7 @@ AI Builder | Backend Developer | Problem Solver
 
 ### Databases & Cloud  
 [![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) 
-[![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) 
-[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)  
+[![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)  
 
 ---
 
