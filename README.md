@@ -1,83 +1,90 @@
-# Hey there, I'm Param Savla
+<div align="center">
 
-Fullstack Developer | Problem Solver  
+# Param Savla
+
+**SPIT Mumbai · 9.69 CGPA**
+
+*Building intelligent systems at the intersection of ML and full-stack engineering*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/param-savla-65a62b337/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paramsavla06@gmail.com)
+[![Portfolio](https://img.shields.io/badge/ChessTrace-Live_Demo-blueviolet?style=for-the-badge&logo=vercel&logoColor=white)](https://chess-trace.vercel.app)
+
+</div>
 
 ---
 
-## About Me
+## About
 
-- B.Tech Student  
-- Building intelligent systems using AI and full stack technologies  
-- Interested in system design and scalable backend engineering  
+B.Tech student at SPIT Mumbai building production-grade ML systems and full-stack applications. Currently focused on machine learning, real-time systems, and making AI models explainable and useful.
 
+- 🎓 Electronics & Telecom Engineering · **9.69 CGPA**
+- 🏆 Amazon ML Summer School 2026 — national shortlist
+- 🌐 **GSSoC 2026 Legend** — 2196 pts, 24 merged PRs across 5 repos
+
+---
+
+## Featured Project — ChessTrace
+
+> *Stockfish tells you the best move. ChessTrace tells you what you'll actually play — and when you'll crack.*
+
+**[chess-trace.vercel.app](https://chess-trace.vercel.app)** · **[GitHub](https://github.com/paramsavla06/ChessTrace)**
+
+A chess intelligence platform that models human play under time pressure — going beyond Stockfish and Chess.com by decoding each player's unique cognitive fingerprint.
+
+**What makes it different:**
+- 8 XGBoost models trained on 512K real move plies with clock data
+- Real-time WebSocket live game spectating with sub-2s ML inference
+- SHAP plain-English explanations surfacing psychological + time-pressure factors
+- Personal cognitive fingerprinting: tilt detection, accuracy vs. clock degradation curves, K-Means archetype clustering, GM style matching via cosine similarity
+- Inspired by Maia Chess (Cornell + Microsoft Research, KDD 2020)
+
+`Python` `FastAPI` `XGBoost` `SHAP` `React` `WebSockets` `Stockfish` `PostgreSQL`
+
+---
+
+## Other Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [NutriMind AI](https://github.com/Bhavishy-Lotlikar/AI-Powered-Nutrition-and-Diet-Recommendation-Platform) | AI nutrition platform · Gemini Vision + XGBoost · predicts long-term health outcomes | React, Node.js, Supabase |
+| [CivicEye](https://github.com/paramsavla06/WCEHackathon2026_CGPAglus) | AI civic issue platform · PyTorch vision model · WCE Hackathon Finalist | React, Node.js, PostgreSQL |
 ---
 
 ## Tech Stack
 
-### Languages  
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/) 
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)) 
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/) 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  
+**Languages**
 
-### Backend & Web  
-[![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) 
-[![Express.js](https://img.shields.io/badge/express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)](https://expressjs.com/) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-### Frontend  
-[![React](https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/) 
-[![Tailwind CSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)  
+**ML / Data**
 
-### AI / ML  
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/) 
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/) 
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)  
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-Explainability-blueviolet?style=flat-square)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-### Databases & Cloud  
-[![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) 
-[![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)  
+**Backend / Full-Stack**
 
----
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-Real--time-010101?style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-## Featured Projects
-
-### NutriMind AI  
-AI-powered health intelligence platform predicting future health trends  
-- Uses machine learning to analyze lifestyle patterns  
-- Predicts long-term health outcomes  
-- Built during a 24-hour hackathon  
 
 ---
 
-### CivicEye  
-AI platform for civic issue reporting and resolution  
-- Intelligent issue categorization  
-- Automated routing and prioritization  
-- Designed for real-world governance use cases  
-
----
-
-### LearnifAI  
-AI-driven personalized learning platform  
-- Identifies knowledge gaps and prerequisite weaknesses  
-- Uses intelligent learning paths and adaptive recommendations  
-- Focused on improving conceptual understanding and retention  
-
----
-
-## GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=paramsavla06&theme=radical)
-
----
-
-## Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/param-savla-65a62b337/) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paramsavla06@gmail.com)
-
----
-
-## Profile Visitors
-
-![Visitor Count](https://komarev.com/ghpvc/?username=paramsavla06&style=for-the-badge)
+<div align="center">
+<sub>
+Amazon ML Summer School 2026 · GSSoC Legend · WCE Hackathon Finalist · Puzzlenama 2nd Place
+</sub>
+</div>
